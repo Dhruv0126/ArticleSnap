@@ -1,0 +1,5 @@
+
+tkinter==8.6
+nltk==3.9
+textblob==0.17.1
+newspaper3k==0.2.8
