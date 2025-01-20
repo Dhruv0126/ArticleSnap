@@ -51,9 +51,6 @@ The **News Summarizer** application allows users to input a URL of a news articl
 - The summarization and sentiment analysis are dependent on the quality of the fetched article.
 - Requires an active internet connection to fetch the news article.
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute as needed.
-
 ## Acknowledgments
 - [TextBlob](https://textblob.readthedocs.io/)
 - [newspaper3k](https://newspaper.readthedocs.io/)
